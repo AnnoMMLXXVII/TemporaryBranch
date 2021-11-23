@@ -1,0 +1,4 @@
+fireball,7,3,0.5
+icestorm,5,1,0.9
+meteorstrike,10,8,0.05
+surge of frostfire,7,5,0.3
